@@ -1,4 +1,12 @@
 ## Hi there 👋
+- 🔭 I’m currently an undergraduate student at NUIST
+- ⚡ I'm very interested in Machine Learning
+- 🌱 A thriller in FPS games
+- 😄 Enjoy integrating my hobbies into my work
+- 📫 How to reach me: 202283710023@nuist.edu.cn
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asuka008&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asuka008&theme=dark&layout=compact)
 
 <!--
 **Asuka008/Asuka008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
