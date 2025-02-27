@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently an undergraduate student at NUIST
 - ⚡ I'm very interested in Machine Learning
-- 🌱 A thriller in FPS games
+- 🌱 Like doing some sports in my spare time
 - 😄 Enjoy integrating my hobbies into my work
 - 📫 How to reach me: 202283710023@nuist.edu.cn
 
