@@ -5,7 +5,6 @@
 - 😄 Enjoy integrating my hobbies into my work
 - 📫 How to reach me: 202283710023@nuist.edu.cn
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asuka008&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asuka008&theme=dark&layout=compact) 
 
 <!--
